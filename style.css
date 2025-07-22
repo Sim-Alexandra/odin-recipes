@@ -1,0 +1,67 @@
+/*generalities*/
+.title{
+    text-align: center;
+    display: block;
+}
+.subtitle{
+    display: block;
+    margin-left: 15px;
+}
+.p{
+    display: block;
+    text-indent: 20px;
+}
+/*everything that has to do with the home page*/
+.home{
+    background-color: beige;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/*.link-crepe{
+    font-weight: bold;
+    padding: 10px;
+}
+.link-lasagna{
+    padding:10px;
+    font-weight: bold;
+}
+.link-pbn{
+    padding: 10px;
+    font-weight: bold;
+}*/
+
+/*everything that has to do with the crepe page*/
+.crepe{
+    background-color: beige;
+    font-family: 'Times New Roman', Times, serif;
+}
+.pic1{
+    display: block;
+    margin: 0 auto;
+    padding: 15px;
+    width: 450px;
+    height: 400px;
+}
+
+/*everything that has to do with the lasagna page*/
+.lasagna{
+    background-color: beige;
+    font-family: 'Times New Roman', Times, serif;
+}
+.pic2{
+    display: block;
+    margin: 0 auto;
+    height: 400px;
+    width: 500px;
+}
+/*everything that has to do with the peanut butter noodles page*/
+.pbn{
+    background-color: beige;
+    font-family: 'Times New Roman', Times, serif;
+}
+.pic3{
+    display: block;
+    margin: 0 auto;
+    width: 400px;
+    height: 400px;
+}
